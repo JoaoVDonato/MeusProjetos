@@ -40,7 +40,8 @@ public class Main {
             System.out.println("Para finalizar digite 'C', ou se quiser retornar aperte qualquer tecla...");
             retorno = entrada.next();
         }while(retorno.equalsIgnoreCase("c"));
-        System.out.println("Obrigado...");
+        System.out.println("Obrigado!");
+        System.out.println("Até mais!!!");
 
     }
 }
