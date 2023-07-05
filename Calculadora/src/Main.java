@@ -43,8 +43,8 @@ public class Main {
         System.out.println("Obrigado!");
         System.out.println("Até mais!!!");
         System.out.println("Vamos alterar tudo");
-        System.out.println("Vamos alterar tudo");
         
+
 
     }
 }
