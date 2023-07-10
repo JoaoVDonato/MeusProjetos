@@ -41,6 +41,12 @@ public class Main {
             retorno = entrada.next();
         }while(retorno.equalsIgnoreCase("c"));
         System.out.println("Obrigado!");
+<<<<<<< HEAD
+=======
+        System.out.println("Até mais!!!");
+        System.out.println("Vamos alterar tudo");
+        
+>>>>>>> main
 
 
     }
