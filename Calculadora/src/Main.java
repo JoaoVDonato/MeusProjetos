@@ -41,8 +41,6 @@ public class Main {
             retorno = entrada.next();
         }while(retorno.equalsIgnoreCase("c"));
         System.out.println("Obrigado!");
-        System.out.println("Até mais!!!");
-
 
 
     }
